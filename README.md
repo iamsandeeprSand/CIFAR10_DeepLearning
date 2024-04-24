@@ -1,7 +1,3 @@
-Here is the README file for your CIFAR-10 Image Classification project:
-
-**README.md**
-
 # CIFAR-10 Image Classification using Convolutional Neural Networks (CNNs)
 
 This repository contains the Python code to perform image classification on the CIFAR-10 dataset using Convolutional Neural Networks (CNNs). The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The classes are: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
@@ -17,12 +13,12 @@ This repository contains the Python code to perform image classification on the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CIFAR-10-Classification.git
+   git clone https://github.com/iamsandeeprSand/CIFAR10_DeepLearning.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd CIFAR-10-Classification
+   cd CIFAR10_DeepLearning
    ```
 
 3. Install the required libraries:
