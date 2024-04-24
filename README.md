@@ -32,9 +32,9 @@ The CIFAR-10 dataset is automatically downloaded by Keras when you import it. It
 
 ## Usage
 
-1. Open and run the `CIFAR10_Image_Classification.ipynb` Jupyter Notebook using the following command:
+1. Open and run the `CIFAR10_DeepLearning.ipynb` Jupyter Notebook using the following command:
    ```bash
-   jupyter notebook CIFAR10_Image_Classification.ipynb
+   jupyter notebook CIFAR10_DeepLearning.ipynb
    ```
 
 2. Follow the instructions in the notebook to train and evaluate the model.
