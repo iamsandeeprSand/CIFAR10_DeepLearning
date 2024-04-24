@@ -72,5 +72,4 @@ The model achieves an accuracy of approximately 80% on the test set after 10 epo
 ## References
 
 - [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-- [CIFAR-10 classification with Keras](https://keras.io/examples/cifar10_cnn/)
 - [Convolutional Neural Networks (CNNs)](https://www.tensorflow.org/tutorials/images/cnn)
